@@ -1,0 +1,25 @@
+{
+  "name": "跨境合作实验记录的载荷交接采集站",
+  "material_nature": "本地合成演练资料",
+  "description": "仅供本地开发和回归，记录不代表真实机构、交易或观测。",
+  "records": {
+    "runs": [
+      {
+        "partner": "lab-a",
+        "run": "R-18",
+        "phase": "blank",
+        "sample": "S-4",
+        "device": "D-2",
+        "calibration": "cal-9"
+      }
+    ],
+    "transfers": [
+      {
+        "sample": "S-4",
+        "revision": 1,
+        "state": "received-by-analysis"
+      }
+    ],
+    "notes": "合成实验计划、设备遥测和样品交接记录。"
+  }
+}
